@@ -1,0 +1,55 @@
+{
+  "tabs": {
+    "calculator": "Damage Calculator",
+    "more": "More",
+    "characters": {
+      "overview": "Overview",
+      "equipment": "Equipment & Enemy",
+      "teambuffs": "Team Buffs"
+    }
+  },
+  "modal": {
+    "character-selection": {
+      "title": "Character Selection",
+      "subtitle": "Please select 1 from {{characterLength}} characters"
+    }
+  },
+  "stats": {
+    "hp": "HP",
+    "atk": "ATK",
+    "def": "DEF",
+    "em": "Elemental Mastery",
+    "er": "Energy Recharge",
+    "crate": "Crit Rate",
+    "cdmg": "Crit DMG",
+    "pyroDMGBonus": "Pyro DMG Bonus",
+    "hydroDMGBonus": "Hydro DMG Bonus",
+    "cryoDMGBonus": "Cryo DMG Bonus",
+    "electroDMGBonus": "Electro DMG Bonus",
+    "geoDMGBonus": "Geo DMG Bonus",
+    "anemoDMGBonus": "Anemo DMG Bonus",
+    "dendroDMGBonus": "Dendro DMG Bonus",
+    "physicalDMGBonus": "Physical DMG Bonus",
+    "healingBonus": "Healing Bonus"
+  },
+  "section": {
+    "title": {
+      "auto": "Normal/Charged Attack",
+      "skill": "Elemental Skill",
+      "burst": "Elemental Burst",
+      "sprint": "Alternate Sprint",
+      "passive1": "Passive 1",
+      "passive2": "Passive 2",
+      "passive3": "Passive 3"
+    },
+    "subtitle": {
+      "auto": "Normal/Charged Attack",
+      "skill": "Elemental Skill",
+      "burst": "Elemental Burst",
+      "sprint": "Alternate Sprint",
+      "passive1": "Unlocked at Ascension 1",
+      "passive2": "Unlocked at Ascension 4",
+      "passive3": "Unlocked by Default"
+    }
+  }
+}

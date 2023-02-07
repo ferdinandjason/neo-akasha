@@ -1,0 +1,55 @@
+{
+    "tabs": {
+        "calculator": "Kalkulator Damage",
+        "more": "Lebih Banyak",
+        "characters": {
+            "overview": "Overview",
+            "equipment": "Perlengkapan dan Musuh",
+            "teambuffs": "Buff"
+        }
+    },
+    "modal": {
+        "character-selection": {
+            "title": "Pemilihan Karakter",
+            "subtitle": "Mohon pilih 1 dari {{characterLength}} karakter"
+        }
+    },
+    "stats": {
+      "hp": "HP",
+      "atk": "ATK",
+      "def": "DEF",
+      "em": "Elemental Mastery",
+      "er": "Energy Recharge",
+      "crate": "Crit Rate",
+      "cdmg": "Crit DMG",
+      "pyroDMGBonus": "Pyro DMG Bonus",
+      "hydroDMGBonus": "Hydro DMG Bonus",
+      "cryoDMGBonus": "Cryo DMG Bonus",
+      "electroDMGBonus": "Electro DMG Bonus",
+      "geoDMGBonus": "Geo DMG Bonus",
+      "anemoDMGBonus": "Anemo DMG Bonus",
+      "dendroDMGBonus": "Dendro DMG Bonus",
+      "physicalDMGBonus": "Physical DMG Bonus",
+      "healingBonus": "Bonus Pemulihan"
+    },
+    "section": {
+      "title": {
+        "auto": "Normal/Charged Attack",
+        "skill": "Elemental Skill",
+        "burst": "Elemental Burst",
+        "sprint": "Sprint Alternatif",
+        "passive1": "Passive 1",
+        "passive2": "Passive 2",
+        "passive3": "Passive 3"
+      },
+      "subtitle": {
+        "auto": "Normal/Charged Attack",
+        "skill": "Elemental Skill",
+        "burst": "Elemental Burst",
+        "sprint": "Sprint Alternatif",
+        "passive1": "Terbuka pada Ascension 1",
+        "passive2": "Terbuka pada Ascension 4",
+        "passive3": "Terbuka secara Default"
+      }
+    }
+}
