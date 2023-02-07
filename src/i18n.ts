@@ -41,7 +41,11 @@ i18n
     react: {
       transSupportBasicHtmlNodes: true,
       transKeepBasicHtmlNodesFor: ['br', 'i', 'strong'],
-    }
+    },
+    backend: {
+      // Path to load localization data from.
+      loadPath: process.env.NODE_ENV == 'development' ? '/locales/{{lng}}/{{ns}}.json' : '/neo-akasha/locales/{{lng}}/{{ns}}.json',
+    },
   });
 
 
