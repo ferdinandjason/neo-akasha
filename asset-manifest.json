@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/neo-akasha/static/css/main.8995c5b0.css",
-    "main.js": "/neo-akasha/static/js/main.ad470c8c.js",
+    "main.js": "/neo-akasha/static/js/main.4dd52111.js",
     "static/js/288.37517da8.chunk.js": "/neo-akasha/static/js/288.37517da8.chunk.js",
     "static/js/787.a54a4a55.chunk.js": "/neo-akasha/static/js/787.a54a4a55.chunk.js",
     "static/media/Paimon.png": "/neo-akasha/static/media/Paimon.cf25ade2fc1bb37407e2.png",
@@ -9,12 +9,12 @@
     "index.html": "/neo-akasha/index.html",
     "static/media/getFetch.cjs": "/neo-akasha/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.8995c5b0.css.map": "/neo-akasha/static/css/main.8995c5b0.css.map",
-    "main.ad470c8c.js.map": "/neo-akasha/static/js/main.ad470c8c.js.map",
+    "main.4dd52111.js.map": "/neo-akasha/static/js/main.4dd52111.js.map",
     "288.37517da8.chunk.js.map": "/neo-akasha/static/js/288.37517da8.chunk.js.map",
     "787.a54a4a55.chunk.js.map": "/neo-akasha/static/js/787.a54a4a55.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8995c5b0.css",
-    "static/js/main.ad470c8c.js"
+    "static/js/main.4dd52111.js"
   ]
 }
