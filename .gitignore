@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+src/Data/Character/*/data.json
+src/Data/Character/*/param.json
+public/locales/en/100*.json
+public/locales/id/100*.json
